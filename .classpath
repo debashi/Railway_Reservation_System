@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/Software/Essential Jars/activation.jar"/>
+	<classpathentry kind="lib" path="D:/Software/Essential Jars/cos.jar"/>
+	<classpathentry kind="lib" path="D:/Software/Essential Jars/gimap.jar"/>
+	<classpathentry kind="lib" path="D:/Software/Essential Jars/mail.jar"/>
+	<classpathentry kind="lib" path="D:/Software/Essential Jars/smtp.jar"/>
+	<classpathentry kind="lib" path="D:/Software/Essential Jars/xwork-2.0.4.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/debar/OneDrive/Documents/J2EE/apache-tomcat-7.0.37/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="D:/Software/Essential Jars/mysql.jar"/>
+	<classpathentry kind="lib" path="C:/Users/debar/OneDrive/Documents/J2EE/apache-tomcat-7.0.37/lib/jsp-api.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

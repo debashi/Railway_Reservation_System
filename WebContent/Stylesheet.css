@@ -1,0 +1,68 @@
+@CHARSET "ISO-8859-1";
+body{
+	background-image: url("Images/background_gradient.jpg");
+	background-repeat: repeat-x;
+	
+}
+.btn_submit{
+	font-family: Century Schoolbook;
+	font-weight: bold;
+	font-size: 20px;
+	background-color: #a0a0a0;
+	border: solid;
+	border-bottom-color: #a0a0a0;
+	cursor: pointer;
+}
+
+table{
+        border-collapse: collapse;
+        margin:100px auto;
+        font-family: Century Schoolbook;
+		font-weight: bold;
+		font-size: 20px;
+		border-color: 10px solid black;
+		
+}
+th{
+	border: 0;
+}
+td{
+	border: 0;	
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+.table{
+	border-color: black;
+	margin-top: 20px;
+	font: small;	
+}
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+.not-active {
+   pointer-events: none;
+   cursor: default;
+}
